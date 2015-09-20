@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://nj02all01.baidupcs.com/file/6700fee496fa743dfd1a2eae7afa19b1?bkt=p2-nj02-439&fid=1594104433-250528-278030985714804&time=1442715335&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-iwMyT%2FmMAGMO8CLUipu0IDTX8Sk%3D&to=nj2hb&fm=Nan,B,T,t&sta_dx=13&sta_cs=0&sta_ft=ipa&sta_ct=0&fm2=Nanjing02,B,T,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=14006700fee496fa743dfd1a2eae7afa19b138571778000000d2c281&sl=82509903&expires=8h&rt=sh&r=365621538&mlogid=1096935622&vuk=1594104433&vbdid=2277615697&fin=iFD.ipa&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=321826967417827491&dp-callid=0.1</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.iFlash.iFD</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>pocodoro</string>
+				<key>title</key>
+				<string>pocodoro</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
